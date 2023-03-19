@@ -1,10 +1,15 @@
--
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulhamid Armiyau
+==========================================================================================================================================
+
+Ful stack sofftware engineer (in the making)
+--------------------------------------------
 
 I am currently in ALX program learning software programming . And i am greatly determined in finishing the program and becoming a skillfull software engineer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [armiyauabdulhamid17@gmail.com](mailto:armiyauabdulhamid17@gmail.com)
 * 🧠  I'm learning Software Engineering
+* 🤝  I'm open to collaborating on Interesting projects
 
 
 ### Socials
@@ -16,4 +21,4 @@ I am currently in ALX program learning software programming . And i am greatly d
 
 ### Support Me
 
-<a href="https://www.hire me .com/armiyau1"><img src="https://cdn.hireme.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/armiyau1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
