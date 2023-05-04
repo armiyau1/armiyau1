@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ful stack software engineer (in the making)
 --------------------------------------------
 
-I am currently in ALX program learning software programming . And i am greatly determined in finishing the program and becoming a skillfull software engineer
+I am currently in ALX program learning software programming . And i am greatly determined in finishing the program and becoming a skillfull software engineer I am really good in web site development with expertise in html css and JavaScript and wordpress 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [armiyauabdulhamid17@gmail.com](mailto:armiyauabdulhamid17@gmail.com)
